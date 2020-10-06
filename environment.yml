@@ -1,0 +1,17 @@
+name: scratch
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - astropy
+  - astropy-healpix
+  - ipython
+  - jupyter
+  - jupyterlab
+  - matplotlib
+  - scipy
+  - numpy
+  - pandas
+  - pyuvdata
+  - pyyaml
+  - yaml

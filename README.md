@@ -1,2 +1,2 @@
 # Phys434
-Assigments for the 
+Assigments and Labs for Physics 434 at UW
